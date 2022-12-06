@@ -6,6 +6,7 @@ authors = ["x0rworld <is.x0r.world@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+autopep8 = "^2.0.0"
 
 [tool.poetry.dev-dependencies]
 
